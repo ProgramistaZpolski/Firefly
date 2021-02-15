@@ -1,7 +1,5 @@
 <?php
 
-namespace App\Core\Firefly;
-
 class Firefly {
 	public static function AppFire(\Throwable $th, String $source = "ProgramistaZpolski/Firefly")
 	{
